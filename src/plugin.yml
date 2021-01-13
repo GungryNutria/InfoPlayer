@@ -1,0 +1,5 @@
+name: InfoPlayer
+version: 1.0
+main: com.gungrynutria.infoplayer.Main
+author: GungryNutria
+depend: [Vault]
